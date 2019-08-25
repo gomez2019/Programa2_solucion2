@@ -1,0 +1,11 @@
+/home/mint/Projects/Programa2_solucion2/Programa2_solucion2/obj/Debug/netcoreapp2.2/Programa2_solucion2.csprojAssemblyReference.cache
+/home/mint/Projects/Programa2_solucion2/Programa2_solucion2/obj/Debug/netcoreapp2.2/Programa2_solucion2.csproj.CoreCompileInputs.cache
+/home/mint/Projects/Programa2_solucion2/Programa2_solucion2/obj/Debug/netcoreapp2.2/Programa2_solucion2.AssemblyInfoInputs.cache
+/home/mint/Projects/Programa2_solucion2/Programa2_solucion2/obj/Debug/netcoreapp2.2/Programa2_solucion2.AssemblyInfo.cs
+/home/mint/Projects/Programa2_solucion2/Programa2_solucion2/bin/Debug/netcoreapp2.2/Programa2_solucion2.deps.json
+/home/mint/Projects/Programa2_solucion2/Programa2_solucion2/bin/Debug/netcoreapp2.2/Programa2_solucion2.runtimeconfig.json
+/home/mint/Projects/Programa2_solucion2/Programa2_solucion2/bin/Debug/netcoreapp2.2/Programa2_solucion2.runtimeconfig.dev.json
+/home/mint/Projects/Programa2_solucion2/Programa2_solucion2/bin/Debug/netcoreapp2.2/Programa2_solucion2.dll
+/home/mint/Projects/Programa2_solucion2/Programa2_solucion2/bin/Debug/netcoreapp2.2/Programa2_solucion2.pdb
+/home/mint/Projects/Programa2_solucion2/Programa2_solucion2/obj/Debug/netcoreapp2.2/Programa2_solucion2.dll
+/home/mint/Projects/Programa2_solucion2/Programa2_solucion2/obj/Debug/netcoreapp2.2/Programa2_solucion2.pdb
